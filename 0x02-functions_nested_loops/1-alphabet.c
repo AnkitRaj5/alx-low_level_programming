@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - main block
+ * print_alphabet - Entry point
  * Description: function prototype
  * Return: 0
  */
